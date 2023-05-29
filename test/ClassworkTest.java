@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class classworkTest {
+class ClassworkTest {
 
 //    @Test
 //    public void testNumbersArray(){
@@ -14,7 +14,7 @@ class classworkTest {
 
     @Test
     public void testArray(){
-        int[] actual = classwork.check(new int[10]);
+        int[] actual = Classwork.check(new int[10]);
 
         for (int count = 0; count < actual.length; count++){
             assertEquals(count + 1, actual[count]);

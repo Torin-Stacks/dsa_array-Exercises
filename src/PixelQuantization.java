@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class pixelQuantization {
+public class PixelQuantization {
 
 
     public int[] checkIndexValue(int[] arr) {

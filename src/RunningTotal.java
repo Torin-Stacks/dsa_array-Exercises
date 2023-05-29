@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class runningTotal {
+public class RunningTotal {
 
     private static final int ZERO = 0;
     public static void main(String[] args) {

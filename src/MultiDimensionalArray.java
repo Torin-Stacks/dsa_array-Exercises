@@ -1,7 +1,7 @@
-public class multiDimensionalArray {
+public class MultiDimensionalArray {
     private String courseName;
     private int[][] grades;
-    public multiDimensionalArray(String courseName, int[][] grades){
+    public MultiDimensionalArray(String courseName, int[][] grades){
         this.courseName  = courseName;
         this.grades = grades;
     }

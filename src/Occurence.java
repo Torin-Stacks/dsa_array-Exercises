@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class occurence {
+public class Occurence {
     private static String name = "Ade";
 
     public static void main(String[] args) {

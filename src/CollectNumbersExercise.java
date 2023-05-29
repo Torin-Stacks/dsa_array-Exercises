@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class collectNumbersExercise {
+public class CollectNumbersExercise {
     private static  final int ZERO = 0;
     public static void main(String[] args) {
         collectNo();

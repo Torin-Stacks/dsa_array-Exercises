@@ -1,4 +1,4 @@
-public class maximumNUmber {
+public class MaximumNUmber {
 
     public static void main(String[] args) {
         int[] array = {2,4,6,7};

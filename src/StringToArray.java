@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class stringToArray {
+public class StringToArray {
     public static void main(String[] args) {
         convertStringToArray("love");
         char[] toReverse = {'l','o','v','e'};

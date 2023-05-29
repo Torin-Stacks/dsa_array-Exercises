@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class integerToArrayInt {
+public class IntegerToArrayInt {
         public static void main(String[] args) {
             convertIntToArray("1234");
         }

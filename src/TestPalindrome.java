@@ -1,4 +1,4 @@
-public class testPalindrome {
+public class TestPalindrome {
     public static void main(String[] args){
         checkForPalindrome("maDAM");
     }

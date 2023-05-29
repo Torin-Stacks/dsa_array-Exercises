@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class combinesTwoArrays {
+public class CombinesTwoArrays {
     public static void main(String[] args) {
         char[] numbers = {'1', '2', '3'};
         char[] letters = {'a', 'b', 'c'};

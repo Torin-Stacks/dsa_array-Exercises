@@ -2,8 +2,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class pixelQuantizationTest {
-    pixelQuantization obj = new pixelQuantization();
+class PixelQuantizationTest {
+    PixelQuantization obj = new PixelQuantization();
     int[] arr = new int[250];
 
     @Test
@@ -95,5 +95,6 @@ class pixelQuantizationTest {
         }
     }
 
-
+//obj.set(0, "bola");
+//assertEquals("tola", obj.get(0));
 }

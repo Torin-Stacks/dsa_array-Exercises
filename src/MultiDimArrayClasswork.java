@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class multiDimArrayClasswork {
+public class MultiDimArrayClasswork {
     private static  final int ZERO = 0;
     private static  final int ONE = 1;
     private static  final int TWO = 2;

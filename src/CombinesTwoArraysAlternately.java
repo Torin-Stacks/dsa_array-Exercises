@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class combinesTwoArraysAlternately {
+public class CombinesTwoArraysAlternately {
 
     public static void main(String[] args) {
         char[] numbers = {'1', '2', '3'};
