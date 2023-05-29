@@ -17,6 +17,12 @@ public class MyListTest {
        assertEquals(1,obj.size());
 
     }
+    @Test
+    public void testSetMethod(){
+        obj.add("tosin");
+        obj.set(0, "tolani");
+        assertEquals("tolani",obj.get(0));
+    }
 
 
 
