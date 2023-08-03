@@ -83,15 +83,18 @@ public class ValidatorTest {
     }
 
 
-//    @Test
-//    public void cardValidityTest(){
-//        String cardNo = "3745678725366";
-//        obj.validateLength(cardNo);
-//        int[]arr = obj.doubleEverySecondDigit(cardNo);
-//        obj.cardValidity(arr);
-//        assertEquals();
-//
-//    }
+    @Test
+    public void cardValidityTest(){
+        String cardNo = "4388576018402626";
+        obj.validateLength(cardNo);
+        int[]arr = obj.doubleEverySecondDigit(cardNo);
+        obj.addDoubleDigits(arr);
+        obj.addEverySecondDigitThatIsASingleDigit(arr);
+        obj.addEverySecondDigitFromInitialArray(arr);
+        String resp = obj.cardValidity(arr);
+        assertEquals("invalid card", resp);
+
+    }
 
 
 

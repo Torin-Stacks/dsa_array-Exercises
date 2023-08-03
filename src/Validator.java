@@ -1,6 +1,8 @@
 public class Validator {
 
     private String cardNo;
+
+
     public String validateLength(String cardNo) {
         this.cardNo = cardNo;
 
@@ -75,10 +77,32 @@ public class Validator {
         System.out.println(sum);
 
        if(sum% 10 ==0){
-           System.out.println("Card number is valid");
+           return "Card number is valid";
        }
        return "invalid card";
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 //    public void validateCardLength(String cardNo){

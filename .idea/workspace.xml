@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57e3be46-3959-4406-8a1c-26de293393d2" name="Changes" comment="test for set and get Methods">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpreadTheArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MechanicsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MyQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MySetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SpreadTheArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ValidatorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PLCrVae3N3CuoH8sF2kPl76EV6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Haystack">
+    <configuration name="CommonElementInThreeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommonElementInThreeSortedArrays" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicateElements" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Haystack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Haystack" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsTheStringAPrefixOfTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsTheStringAPrefixOfTheArray" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxValueOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxValueOfString" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Haystack" />
+        <item itemvalue="Application.IsTheStringAPrefixOfTheArray" />
+        <item itemvalue="Application.CommonElementInThreeSortedArrays" />
+        <item itemvalue="Application.MaxValueOfString" />
+        <item itemvalue="Application.DuplicateElements" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57e3be46-3959-4406-8a1c-26de293393d2" name="Changes" comment="" />
+      <created>1683227178820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683227178820</updated>
+      <workItem from="1683227180125" duration="16817000" />
+      <workItem from="1683386941087" duration="12077000" />
+      <workItem from="1683624504313" duration="21150000" />
+      <workItem from="1683820347237" duration="30937000" />
+      <workItem from="1684019154312" duration="24613000" />
+      <workItem from="1684328442324" duration="16046000" />
+      <workItem from="1684789901122" duration="9231000" />
+      <workItem from="1684828794877" duration="25475000" />
+      <workItem from="1685183141824" duration="33454000" />
+      <workItem from="1685379990779" duration="13323000" />
+      <workItem from="1685804288424" duration="38209000" />
+      <workItem from="1686212142308" duration="9261000" />
+      <workItem from="1686643273685" duration="3235000" />
+      <workItem from="1686902703550" duration="599000" />
+      <workItem from="1687567557273" duration="652000" />
+      <workItem from="1688066099265" duration="7969000" />
+      <workItem from="1689202225539" duration="5353000" />
+      <workItem from="1689277169333" duration="10352000" />
+      <workItem from="1689670235166" duration="3912000" />
+      <workItem from="1689687438806" duration="6000" />
+      <workItem from="1689703553059" duration="5738000" />
+      <workItem from="1689881432311" duration="6159000" />
+      <workItem from="1690103883932" duration="104000" />
+      <workItem from="1690964375444" duration="4633000" />
+      <workItem from="1690971542319" duration="599000" />
+      <workItem from="1691023057290" duration="479000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1684154371590</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684154371590</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1684183524893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684183524893</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1685367512030</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685367512030</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1685367658104</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685367658104</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test for set and get Methods">
+      <created>1685368169466</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685368169466</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="test for set and get Methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="test for set and get Methods" />
+  </component>
+</project>
