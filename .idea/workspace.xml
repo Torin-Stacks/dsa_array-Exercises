@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57e3be46-3959-4406-8a1c-26de293393d2" name="Changes" comment="test for set and get Methods">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MySet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpreadTheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MechanicsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MyQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MySetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/SpreadTheArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Validator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/MyListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ValidatorTest.java" afterDir="false" />
+    <list default="true" id="57e3be46-3959-4406-8a1c-26de293393d2" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,16 +63,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Haystack">
+  <component name="RunManager" selected="Application.SecondLargestNumberInAString">
     <configuration name="CommonElementInThreeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CommonElementInThreeSortedArrays" />
-      <module name="Arrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuplicateElements" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,13 +92,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondLargestNumberInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondLargestNumberInAString" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondLargestNumberInAString" />
         <item itemvalue="Application.Haystack" />
         <item itemvalue="Application.IsTheStringAPrefixOfTheArray" />
         <item itemvalue="Application.CommonElementInThreeSortedArrays" />
         <item itemvalue="Application.MaxValueOfString" />
-        <item itemvalue="Application.DuplicateElements" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +143,8 @@
       <workItem from="1690964375444" duration="4633000" />
       <workItem from="1690971542319" duration="599000" />
       <workItem from="1691023057290" duration="479000" />
+      <workItem from="1691050433033" duration="349000" />
+      <workItem from="1691137794412" duration="3844000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1684154371590</created>
@@ -194,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685368169466</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="upgrade">
+      <created>1691050475634</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691050475634</updated>
+    </task>
+    <task id="LOCAL-00007" summary="initial commit">
+      <created>1691050693977</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691050693977</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,8 +213,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial commit" />
     <MESSAGE value="test for set and get Methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="test for set and get Methods" />
+    <MESSAGE value="upgrade" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
